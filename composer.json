@@ -1,0 +1,17 @@
+{
+    "name": "usman/contact",
+    "description": "This will send mail to admin and save data to the database",
+    "license": "Us",
+    "authors": [
+        {
+            "name": "Usman Shaheen",
+            "email": "smani170753@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "Usman\\Contact\\": "src/"
+        }
+    }
+}
